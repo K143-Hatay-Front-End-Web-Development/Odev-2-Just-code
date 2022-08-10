@@ -1,0 +1,37 @@
+.App {
+ text-align: center;
+ height: 100vh;
+ background: #F3B18C;
+ font-family: 'Finger Paint';
+}
+
+.title{
+  color: #0026ED;
+  padding-top: 25px;
+}
+
+.win-blue {
+  border: 10px solid #0026ED;
+  display: flex;
+  margin: 5px;
+  height: 80px;
+  width: 80px;
+  font-size: 48px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
+
+.win-red {
+  border: 10px #FF0505;
+  display: flex;
+  margin: 5px;
+  height: 80px;
+  width: 80px;
+  font-size: 48px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  color: #0026ED;
+}
