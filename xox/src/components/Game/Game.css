@@ -1,18 +1,19 @@
 .row {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.title {
-  color: #0026ed;
-  margin-bottom: 10px;
-  font-size: 44px;
-}
-
-.win-blue {
-  border: blue;
-}
-
-.win-red {
-  border: red;
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .title {
+    color: #0026ed;
+    margin-bottom: 10px;
+    font-size: 44px;
+  }
+  
+  .win-blue {
+    border: blue;
+  }
+  
+  .win-red {
+    border: red;
+  }
+  

@@ -1,9 +1,9 @@
 # Odev-2
 
 ## Grup Üyeleri
-  Nurselam SAYAN
-  Feride MAVİGÖK
-  Ahmet GÜLTEKİN
+  [Nurselam] [SAYAN]
+  [Feride] [MAVİGÖK]
+  [Ahmet] [GÜLTEKİN]
 ## İçerik
 
 -  [Figma ve css örneği](https://www.figma.com/file/9WxsY4qgl7Elca9cv9Y5z6/Untitled?node-id=0%3A1)

@@ -17,6 +17,11 @@
   background-color: #ff0505;
 }
 
+
+.red-box {
+  background-color: #ff0505;
+}
+
 .item y:hover {
   background-color: #0026ed;
 }
