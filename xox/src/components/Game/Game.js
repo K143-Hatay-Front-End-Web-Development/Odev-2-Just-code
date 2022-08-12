@@ -17,7 +17,7 @@ function Game() {
     const values = [...value];
     values[i] = turn ? "X" : "O"; 
     setValue(values);
-    setTurn(!turn);// false çevir
+    setTurn(!turn);
   }
 
   return (
